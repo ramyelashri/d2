@@ -27,7 +27,7 @@ yarn install && yarn start
 
 # Features
 - React 16.3
-- Bootstrap 4
+- Foundation 6.5
 - SCSS support
 - JavaScript module bundling with webpack 4
 - React, JSX, ES6, TypeScript and Flow syntax support.

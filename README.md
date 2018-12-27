@@ -1,5 +1,5 @@
 # :fire: D2 app
-Simple app using React 16.3, bootstrap, scss, webpack
+Simple app using React 16.3, foundation, scss, webpack
 
 Demo: [http://d2-app.surge.sh/](http://d2-app.surge.sh/)
 
